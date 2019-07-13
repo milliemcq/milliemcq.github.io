@@ -7269,7 +7269,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
   font-family: "Poppins", Arial, sans-serif;
-  background: deepskyblue;
+  background: lightskyblue;
   font-size: 18px;
   line-height: 1.8;
   font-weight: 400;
@@ -8331,7 +8331,7 @@ textarea.form-control {
       height: 40px;
       line-height: 40px;
       border-radius: 50%;
-      border: 1px solid #2c2c2c; }
+      border: 1px solid white; }
     .block-27 ul li.active a, .block-27 ul li.active span {
       background: #2f89fc;
       color: #fff;
