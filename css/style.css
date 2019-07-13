@@ -7269,11 +7269,11 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
   font-family: "Poppins", Arial, sans-serif;
-  background: #121212;
+  background: deepskyblue;
   font-size: 18px;
   line-height: 1.8;
   font-weight: 400;
-  color: #8c8c8c;
+  color: navy;
   position: relative; }
   body:after {
     position: fixed;
@@ -7409,7 +7409,8 @@ h1, h2, h3, h4, h5,
     #colorlib-main-nav .colorlib-table .colorlib-table-cell {
       display: table-cell;
       vertical-align: middle;
-      position: relative; }
+      position: relative;
+      background-color: deepskyblue}
   #colorlib-main-nav .colorlib-nav-toggle {
     position: absolute;
     top: 40px;
