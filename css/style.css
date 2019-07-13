@@ -7338,10 +7338,10 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #2f89fc; }
+  color: white; }
   a:hover {
     text-decoration: none;
-    color: #2f89fc; }
+    color: white; }
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
@@ -7931,8 +7931,8 @@ header {
   .exp-wrap .desc {
     width: calc(100% - 150px); }
     .exp-wrap .desc h4 span {
-      color: #8c8c8c;
-      font-weight: 300; }
+      color: deeppink;
+      font-weight: 500; }
     .exp-wrap .desc .location {
       margin-bottom: 0; }
   .exp-wrap .year {
